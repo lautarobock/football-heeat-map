@@ -10,3 +10,9 @@ https://github.com/PierreDelarroqua/fitbit_football_tracking
 pero aparentemente solo resalta lineas que pasan por el mismo lado, entiendo que quiza tenga que transformar los puntos en algo mas grande antes de usar esta lib
 
 https://github.com/erik/derive
+
+
+# Strava dev tools and garmin
+https://developers.strava.com
+https://developer.garmin.com/connect-iq/developer-tools/
+https://developer.garmin.com/connect-iq/what-you-can-build/
